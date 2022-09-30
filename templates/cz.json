@@ -8,8 +8,8 @@
       "->": "zaútoč s touto jednotkou. Pokud chceš zaútočit, vyber jednotku a klepni na libovolný z ČERVENÝCH cílů"
     },
     "action.info.boost": {
-      "en": "Boost",
-      "->": ""
+      "en": "boost",
+      "->": "podpořit"
     },
     "action.info.breakice": {
       "en": "Break Ice",
@@ -17,7 +17,7 @@
     },
     "action.info.breakpeace": {
       "en": "Break Peace",
-      "->": ""
+      "->": "Zlomit mír"
     },
     "action.info.build": {
       "en": "build a {0} here",
@@ -37,7 +37,7 @@
     },
     "action.info.decompose": {
       "en": "Decompose",
-      "->": ""
+      "->": "Rozložit"
     },
     "action.info.destroy": {
       "en": "Destroy",
@@ -57,15 +57,15 @@
     },
     "action.info.establishembassy": {
       "en": "Establish Embassy",
-      "->": ""
+      "->": "Zřídit velvyslanectví"
     },
     "action.info.examineruins": {
       "en": "Examine",
-      "->": ""
+      "->": "Prozkoumat"
     },
     "action.info.explode": {
       "en": "Explode",
-      "->": ""
+      "->": "Explodovat"
     },
     "action.info.freezearea": {
       "en": "Freeze Area",
@@ -89,7 +89,7 @@
     },
     "action.info.peacetreaty": {
       "en": "Offer Peace",
-      "->": ""
+      "->": "Nabídnout mír"
     },
     "action.info.promote": {
       "en": "Promote",
@@ -133,15 +133,15 @@
     },
     "action.info.upgrade": {
       "en": "Upgrade to {0}",
-      "->": ""
+      "->": "Vylepšit na {0}"
     },
     "actionbox.building.decomposing": {
       "en": "Decomposing",
-      "->": ""
+      "->": "Rozložení"
     },
     "actionbox.building.decomposing.info": {
       "en": "This improvement will decompose at the end of this turn",
-      "->": ""
+      "->": "Toto vylepšení se rozloží po konci tohoto kola"
     },
     "actionbox.building.doit": {
       "en": "DO IT",
@@ -161,7 +161,7 @@
     },
     "actionbox.cantperformaction.description": {
       "en": "You cannot perform this action right now.",
-      "->": ""
+      "->": "Nyní nemůžeš provést tuto akci."
     },
     "actionbox.city": {
       "en": "City",
@@ -169,7 +169,7 @@
     },
     "actionbox.city.level": {
       "en": "lvl {0}",
-      "->": ""
+      "->": "level {0}"
     },
     "actionbox.confirm": {
       "en": "Confirm {0}",
@@ -185,19 +185,19 @@
     },
     "actionbox.confirm.info.breakpeace": {
       "en": "Are you sure you want to break the peace treaty? Doing so will disable all your units for the rest of this turn.",
-      "->": ""
+      "->": "Opravdu chceš porušit mírovou smlouvu? Znamená to, že se tvé jednotky nebudou moc do konce tohoto kola hýbat."
     },
     "actionbox.confirm.info.breakpeace.disband": {
       "en": "It will also disband the {0} units you have in their territory.",
-      "->": ""
+      "->": "Také se propustí {0} jednotek, které máš v jejich oblasti."
     },
     "actionbox.embassyestablished.description": {
       "en": "The embassy is already established.",
-      "->": ""
+      "->": "Ambasáda je již založena."
     },
     "actionbox.establishembassynocapital.description": {
       "en": "You cannot establish an embassy if the tribe has no capital.",
-      "->": ""
+      "->": "Nemůžeš založit ambasádu, pokud tvůj kmen nemá žádné hlavní město."
     },
     "actionbox.insufficientfunds": {
       "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
@@ -205,11 +205,11 @@
     },
     "actionbox.pendingpeacetreaty.description": {
       "en": "Peace treaty pending. Waiting for {0} to respond",
-      "->": ""
+      "->": "Mírová smlouva čeká na odpověď od {0}"
     },
     "actionbox.pendingpeacetreaty.title": {
       "en": "Pending Peace Treaty",
-      "->": ""
+      "->": "Čeká se na podpis mírové smlouvy"
     },
     "actionbox.tile.roads": {
       "en": "roads",
@@ -217,19 +217,19 @@
     },
     "actionbox.unit.Boosted": {
       "en": "Boosted",
-      "->": ""
+      "->": "Podpořena"
     },
     "actionbox.unit.Frozen": {
       "en": "Frozen",
-      "->": ""
+      "->": "Zmrzlá"
     },
     "actionbox.unit.Invisible": {
       "en": "Invisible",
-      "->": ""
+      "->": "Neviditelná"
     },
     "actionbox.unit.Poisoned": {
       "en": "Poisoned",
-      "->": ""
+      "->": "Otrávená"
     },
     "actionbox.unit.ability": {
       "en": "Unit Ability",
@@ -277,27 +277,27 @@
     },
     "backend.connecting": {
       "en": "Connecting to server...",
-      "->": ""
+      "->": "Připojuji se k serveru..."
     },
     "backend.connecting.failed": {
       "en": "Could not establish a connection to the server",
-      "->": ""
+      "->": "Nepodařilo se spojit se se serverem"
     },
     "backend.connection.lost": {
       "en": "Connection lost",
-      "->": ""
+      "->": "Spojení ztraceno"
     },
     "backend.connection.lost.info": {
       "en": "Hold on while we're trying to reconnect",
-      "->": ""
+      "->": "Vydrž, připojuji se znovu"
     },
     "backend.login.failed": {
       "en": "Login failed",
-      "->": ""
+      "->": "Přihlášení se nezdařilo"
     },
     "backend.login.successful": {
       "en": "Logged in as {0}",
-      "->": ""
+      "->": "Přihlášen jako {0}"
     },
     "bottommenu.gamestats": {
       "en": "Game Stats",
@@ -321,7 +321,7 @@
     },
     "building.ability.bridge": {
       "en": "{0} creates a bridge that any unit can move on, ignoring the terrain type underneath.",
-      "->": ""
+      "->": "{0} vytvoří most, po kterém mohou jednotky přejít bez ohledu na typ terénu pod ním."
     },
     "building.ability.embark": {
       "en": "Units that move here will turn into boats that can move on water.",
@@ -329,7 +329,7 @@
     },
     "building.ability.heal": {
       "en": "{0} heals any friendly unit that end their turn next to them.",
-      "->": ""
+      "->": "{0} vyléčí na konci kola přátelské jednotky v okolí."
     },
     "building.ability.limited": {
       "en": "You can only build one {0} per city.",
@@ -337,7 +337,7 @@
     },
     "building.ability.network": {
       "en": "{1} connect to cities and other {1} through {0}, within a {2} tiles radius.",
-      "->": ""
+      "->": "{1} se spojí s městy a ostatními {1} prostřednictvím {0}, v okruhu {2} polí."
     },
     "building.ability.patina": {
       "en": "{0} grows every {1} turns and provides {2} for each level of growth.",
@@ -345,7 +345,7 @@
     },
     "building.ability.poison": {
       "en": "{0} poison any unit that step on them. Poisoned units lose all defense bonuses and spread spores when they die.",
-      "->": ""
+      "->": "{0} otráví jakoukoliv jednotku která na ně šlápne. Otrávené jednotky ztrácí všechny obranné bonusy a při smrti rozšíří jedovaté spóry."
     },
     "building.ability.road": {
       "en": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
@@ -381,7 +381,7 @@
     },
     "building.names.algae": {
       "en": "Algae",
-      "->": ""
+      "->": "Řasy"
     },
     "building.names.burnforest": {
       "en": "Burn Forest",
@@ -405,11 +405,11 @@
     },
     "building.names.enchantanimal": {
       "en": "Enchant Animal",
-      "->": ""
+      "->": "Očarovat zvíře"
     },
     "building.names.enchantwhale": {
       "en": "Enchant Whale",
-      "->": ""
+      "->": "Očarovat velrybu"
     },
     "building.names.farm": {
       "en": "Farm",
@@ -429,7 +429,7 @@
     },
     "building.names.fungi": {
       "en": "Fungi",
-      "->": ""
+      "->": "Houby"
     },
     "building.names.growforest": {
       "en": "Grow Forest",
@@ -437,7 +437,7 @@
     },
     "building.names.harvestfruit": {
       "en": "Harvest Fruit",
-      "->": ""
+      "->": "Sklidit ovoce"
     },
     "building.names.hunting": {
       "en": "Hunting",
@@ -497,7 +497,7 @@
     },
     "building.names.outpost": {
       "en": "Outpost",
-      "->": ""
+      "->": "Základna"
     },
     "building.names.port": {
       "en": "Port",
@@ -605,7 +605,7 @@
     },
     "buttons.accept": {
       "en": "ACCEPT",
-      "->": ""
+      "->": "PŘIJMOUT"
     },
     "buttons.back": {
       "en": "BACK",
@@ -613,7 +613,7 @@
     },
     "buttons.decline": {
       "en": "DECLINE",
-      "->": ""
+      "->": "ODMÍTNOUT"
     },
     "buttons.exit": {
       "en": "EXIT",
@@ -621,15 +621,15 @@
     },
     "buttons.exitgame": {
       "en": "EXIT GAME",
-      "->": ""
+      "->": "UKONČIT HRU"
     },
     "buttons.invite": {
       "en": "INVITE",
-      "->": ""
+      "->": "POZVAT"
     },
     "buttons.leave": {
       "en": "LEAVE",
-      "->": ""
+      "->": "ODEJÍT"
     },
     "buttons.ok": {
       "en": "OK",
@@ -641,11 +641,11 @@
     },
     "buttons.reconnect": {
       "en": "RECONNECT",
-      "->": ""
+      "->": "PŘIPOJIT SE ZNOVU"
     },
     "buttons.remove": {
       "en": "REMOVE",
-      "->": ""
+      "->": "ODSTRANIT"
     },
     "buttons.save": {
       "en": "SAVE",
@@ -653,27 +653,27 @@
     },
     "buttons.start": {
       "en": "START GAME",
-      "->": ""
+      "->": "ZAČÍT HRU"
     },
     "buttons.stay": {
       "en": "STAY",
-      "->": ""
+      "->": "ZŮSTAT"
     },
     "buttons.tryagain": {
       "en": "TRY AGAIN",
-      "->": ""
+      "->": "ZKUSIT ZNOVU"
     },
     "challengermode.connect.button": {
       "en": "CONNECT",
-      "->": ""
+      "->": "PŘIPOJIT SE"
     },
     "challengermode.connect.description": {
       "en": "To participate in a ladder you need a Challengermode account.",
-      "->": ""
+      "->": "Pro účast v žebříčku se musíš zaregistrovat do Challenger Mód."
     },
     "challengermode.connect.header": {
       "en": "Connect to Challengermode",
-      "->": ""
+      "->": "Připojit se k Challenger Módu"
     },
     "consent.approval.info": {
       "en": "To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
@@ -713,7 +713,7 @@
     },
     "credits.artists": {
       "en": "Artists",
-      "->": ""
+      "->": "Umělci"
     },
     "credits.build": {
       "en": "Build version",
@@ -721,7 +721,7 @@
     },
     "credits.community": {
       "en": "Community Manager",
-      "->": ""
+      "->": "Správce komunity"
     },
     "credits.debuginfo": {
       "en": "DEBUG INFO",
@@ -729,7 +729,7 @@
     },
     "credits.design": {
       "en": "Game Design",
-      "->": ""
+      "->": "Design hry"
     },
     "credits.device": {
       "en": "Device",
@@ -737,7 +737,7 @@
     },
     "credits.followus": {
       "en": "Follow us",
-      "->": ""
+      "->": "Sleduj nás"
     },
     "credits.getmerch": {
       "en": "Get some official Polytopian merch.",
@@ -753,7 +753,7 @@
     },
     "credits.managment": {
       "en": "Management",
-      "->": ""
+      "->": "Správa"
     },
     "credits.midjiwan": {
       "en": "The Battle of Polytopia is constantly being created by Midjiwan AB, a tiny indie game studio in Stockholm, Sweden.",
@@ -761,7 +761,7 @@
     },
     "credits.music": {
       "en": "MUSIC",
-      "->": ""
+      "->": "HUDBA"
     },
     "credits.os": {
       "en": "OS",
@@ -769,7 +769,7 @@
     },
     "credits.platforms": {
       "en": "Multiple platforms",
-      "->": ""
+      "->": "Různé platformy"
     },
     "credits.polytopiamusic1": {
       "en": "Polytopia music!",
@@ -777,7 +777,7 @@
     },
     "credits.polytopiamusic2": {
       "en": "Listen to full length versions of you favourite tribe's soundtrack on Spotify.",
-      "->": ""
+      "->": "Poslouchej plnou verzi hudby tvých oblíbených kmenů na Spotify."
     },
     "credits.privacy": {
       "en": "Privacy Policy",
@@ -785,11 +785,11 @@
     },
     "credits.programmers": {
       "en": "Programmers",
-      "->": ""
+      "->": "Programátoři"	
     },
     "credits.qa": {
       "en": "Quality Assurance",
-      "->": ""
+      "->": "Zajištění kvality"
     },
     "credits.screendpi": {
       "en": "Screen DPI",
@@ -857,115 +857,115 @@
     },
     "diplomacy.acceptpeace.description": {
       "en": "{0} has accepted your peace treaty! While at peace no hostile actions can be made.",
-      "->": ""
+      "->": "{0} přijal tvou nabídku míru! Dokud mírová smlouva platí, nemůžeš provádět žádné násilné akce."
     },
     "diplomacy.acceptpeace.notification.description": {
       "en": "Peace treaty with {0} confirmed!",
-      "->": ""
+      "->": "Mírová smlouva s {0} potvrzena!"
     },
     "diplomacy.acceptpeace.notification.description2": {
       "en": "{0} and {1} has made peace!",
-      "->": ""
+      "->": "{0} a {1} se podepsaly mírovou smlouvu!"
     },
     "diplomacy.acceptpeace.title": {
       "en": "Peace treaty accepted!",
-      "->": ""
+      "->": "Mírová smlouva potvrzena!"
     },
     "diplomacy.breakpeace.description": {
       "en": "{0} has broken the peace treaty. Next turn you will be able to attack each other again so get prepared!",
-      "->": ""
+      "->": "{0} ukončil mírovou smlouvu. Další kolo budete moci na sebe útočit, tak se připrav!"
     },
     "diplomacy.breakpeace.notification.description": {
       "en": "Broke peace with {0}",
-      "->": ""
+      "->": "Zrušil mírovou smlouvu s {0}"
     },
     "diplomacy.breakpeace.notification.description2": {
       "en": "{0} and {1} are no longer at peace",
-      "->": ""
+      "->": "{0} a {1} nejsou v míru"
     },
     "diplomacy.breakpeace.title": {
       "en": "{0} Broke Peace",
-      "->": ""
+      "->": "{0} zrušit mírovou smlouvu"
     },
     "diplomacy.declarewar.description": {
       "en": "{0} has declared war on you!",
-      "->": ""
+      "->": "{0} ti vyhlásil válku!"
     },
     "diplomacy.declarewar.title": {
       "en": "War!",
-      "->": ""
+      "->": "Válka!"
     },
     "diplomacy.denypeace.description": {
       "en": "{0} has rejected the peace treaty you offered.",
-      "->": ""
+      "->": "{0} odmítl tvou nabídku míru."
     },
     "diplomacy.denypeace.notification.description": {
       "en": "You rejected the {0} peace treaty.",
-      "->": ""
+      "->": "Odmítl jsi mírovou smlouvu s {0}."
     },
     "diplomacy.denypeace.notification.title": {
       "en": "No Deal",
-      "->": ""
+      "->": "Nepřijmout mír"
     },
     "diplomacy.denypeace.title": {
       "en": "Peace treaty rejected",
-      "->": ""
+      "->": "Mírová smlouva odmítnuta"
     },
     "diplomacy.destroyedembassy.description": {
       "en": "Your embassy in the {0} capital has been destroyed!",
-      "->": ""
+      "->": "Tvá ambasáda v hlavním městě {0} byla zničena!"
     },
     "diplomacy.destroyedembassy.description2": {
       "en": "The {0} embassy in your capital has been destroyed.",
-      "->": ""
+      "->": "Ambasáda {0} v tvém hlavním městě byla zničena."
     },
     "diplomacy.destroyedembassy.title": {
       "en": "Embassy Destroyed",
-      "->": ""
+      "->": "Ambasáda zničena"
     },
     "diplomacy.establishedembassy.description": {
       "en": "You have established an embassy in the {0} capital. It will give you both {1} stars per turn, when you have a peace treaty the income is doubled.",
-      "->": ""
+      "->": "Založil jsi ambasádu v hlavním městě {0}. Dostanete {1} hvězd za kolo, když mírová smlouva platí, příjem je dvojnásobný."
     },
     "diplomacy.establishedembassy.description2": {
       "en": "{0} established an embassy in your capital. It will give you both {1} stars per turn. The income is doubled if you have a peace treaty.",
-      "->": ""
+      "->": "{0} založil ambasádu v tvém hlavním městě. Dostanete {1} hvězd za kolo. Příjem je dvojnásobný pokud máte sepsanou mírovou smlouvu."
     },
     "diplomacy.establishedembassy.title": {
       "en": "Embassy Established",
-      "->": ""
+      "->": "Ambasáda založena"
     },
     "diplomacy.peacetreaty.description": {
       "en": "{0} suggests a peace treaty. If you accept you will not be able to attack each other until one of you breaks the treaty",
-      "->": ""
+      "->": "{0} ti navrhl sepsat mírovou smlouvu. Pokud ji přijmeŠ, nebudete moci na sebe útočit, dokud ji jeden z vás neporuší"
     },
     "diplomacy.peacetreaty.notification.description": {
       "en": "Peace treaty sent to {0}",
-      "->": ""
+      "->": "Mírová smlouva odeslána {0}"
     },
     "diplomacy.relation.decent": {
       "en": "Decent",
-      "->": ""
+      "->": "Decentní"
     },
     "diplomacy.relation.great": {
       "en": "Great",
-      "->": ""
+      "->": "Dobrý"
     },
     "diplomacy.relation.horrible": {
       "en": "Horrible",
-      "->": ""
+      "->": "Hrozný"
     },
     "diplomacy.relation.indifferent": {
       "en": "Indifferent",
-      "->": ""
+      "->": "Neutrální"
     },
     "diplomacy.relation.poor": {
       "en": "Poor",
-      "->": ""
+      "->": "Špatný"
     },
     "diplomacy.relation.title": {
       "en": "Relation",
-      "->": ""
+      "->": "Vztah"
     },
     "diplomacy.state.hostile": {
       "en": "cooldown",
@@ -973,31 +973,31 @@
     },
     "diplomacy.state.hostile.description": {
       "en": "Your current peace treaty just ended and you will be able to attack each other again next turn.",
-      "->": ""
+      "->": "Vaše současná mírová smlouva skončila a budete moci na sebe příští kolo útočit."
     },
     "diplomacy.state.neutral": {
       "en": "neutral",
-      "->": ""
+      "->": "neutrální"
     },
     "diplomacy.state.neutral.description": {
       "en": "There has been no recent hostilities between your tribes.",
-      "->": ""
+      "->": "Nebyly žádné nepřátelské akce mezi tvými kmeny."
     },
     "diplomacy.state.peace": {
       "en": "peace",
-      "->": ""
+      "->": "mír"
     },
     "diplomacy.state.peace.description": {
       "en": "You currently have a peace treaty preventing you from attacking each other. A peace treaty can be canceled at any time, but that will take effect in the following turn.",
-      "->": ""
+      "->": "V současnosti máte podepsanou mírovou smlouvu, která vám brání útočit na sebe. Mírová smlouva může být zrušena kdykoliv, ale vliv to bude mít až od příštího kola."
     },
     "diplomacy.state.war": {
       "en": "war",
-      "->": ""
+      "->": "válka"
     },
     "diplomacy.state.war.description": {
       "en": "You or them have attacked the other in the last turn. If there are no more hostilities in one turn your status will change to \"neutral\"",
-      "->": ""
+      "->": "Útočili jste na sebe v minulém kole. Pokud v tomto kole nebudou žádné boje, bude váš status změněn na \"neutrální\""
     },
     "endscreen.army&territory": {
       "en": "Army & Territory",
@@ -1025,7 +1025,7 @@
     },
     "endscreen.connectioninfo": {
       "en": "Log in to submit high scores",
-      "->": ""
+      "->": "Pro uložení dosažených výsledků se prosím přihlašte"
     },
     "endscreen.culture": {
       "en": "{0} monuments, {1} temples",
@@ -1129,139 +1129,139 @@
     },
     "epithet.divine": {
       "en": "the Divine {0}",
-      "->": ""
+      "->": "Božský {0}"
     },
     "epithet.faithful": {
       "en": "the Faithful {0}",
-      "->": ""
+      "->": "Věřící {0}"
     },
     "epithet.pathetic": {
       "en": "the Pathetic {0}",
-      "->": ""
+      "->": "Patetický {0}"
     },
     "epithet.terrible": {
       "en": "the Terrible {0}",
-      "->": ""
+      "->": "Hrozný {0}"
     },
     "error.code.1001": {
       "en": "Submit failed, busy ({0})",
-      "->": ""
+      "->": "Odeslání se nezdařilo, server je zaneprázdněn ({0})"
     },
     "error.code.1002": {
       "en": "Steam authentication failed ({0})",
-      "->": ""
+      "->": "Steam ověření se nezdařilo ({0})"
     },
     "error.code.1003": {
       "en": "Google Play authentication failed ({0})",
-      "->": ""
+      "->": "Google Play ověření se nezdařilo ({0})"
     },
     "error.code.1004": {
       "en": "Login failed ({0})",
-      "->": ""
+      "->": "Přihlášení se nezdařilo ({0})"
     },
     "error.code.1005": {
       "en": "Game not found ({0})",
-      "->": ""
+      "->": "Hra nebyla nalezena ({0})"
     },
     "error.code.1006": {
       "en": "Player not found ({0})",
-      "->": ""
+      "->": "Hráč nebyl nalezen ({0})"
     },
     "error.code.1007": {
       "en": "Invalid friend request ({0})",
-      "->": ""
+      "->": "Neplatný požadavek na přátelství ({0})"
     },
     "error.code.1008": {
       "en": "Friendship not found ({0})",
-      "->": ""
+      "->": "Přátelství nebylo nalezeno ({0})"
     },
     "error.code.1009": {
       "en": "Invalid friendship status ({0})",
-      "->": ""
+      "->": "Neplatný stav přátelství ({0})"
     },
     "error.code.1010": {
       "en": "Unable to create game, no players ({0})",
-      "->": ""
+      "->": "Nelze vytvořit hru, žádní hráči ({0})"
     },
     "error.code.1011": {
       "en": "Missing game state ({0})",
-      "->": ""
+      "->": "Chybějící stav hry ({0})"
     },
     "error.code.1012": {
       "en": "Game could not be loaded ({0})",
-      "->": ""
+      "->": "Hru se nepodařilo nahrát ({0})"
     },
     "error.code.1013": {
       "en": "Invalid command ({0})",
-      "->": ""
+      "->": "Neplatný příkaz ({0})"
     },
     "error.code.1014": {
       "en": "Failed to kick player ({0})",
-      "->": ""
+      "->": "Hráče se nepodařilo vykopnout ({0})"
     },
     "error.code.1015": {
       "en": "Failed to start game ({0})",
-      "->": ""
+      "->": "Hru se nepodařilo spustit ({0})"
     },
     "error.code.1016": {
       "en": "User not found ({0})",
-      "->": ""
+      "->": "Uživatel nebyl nalezen ({0})"
     },
     "error.code.1017": {
       "en": "Failed to pick tribe ({0})",
-      "->": ""
+      "->": "Kmen se nepodařilo vybrat ({0})"
     },
     "error.code.1018": {
       "en": "AI Command failed ({0})",
-      "->": ""
+      "->": "AI příkaz se nezdařil ({0})"
     },
     "error.code.1019": {
       "en": "Your version of Polytopia is too old. Update to the latest version to start a new multiplayer game ({0})",
-      "->": ""
+      "->": "Tvoje verze Polytopie je příliš stará. Aktualizuj na nejnovější verzi pro spuštění nové hry více hráčů ({0})"
     },
     "error.code.1023": {
       "en": "This game is using a newer version of Polytopia, you need to update to the latest version before you can play. ({0})",
-      "->": ""
+      "->": "Tato hra používá novější verzi Polytopie, musíš aktualizovat na nejnovější verzi předtím než začneš hrát. ({0})"
     },
     "error.code.1024": {
       "en": "This game is still ongoing, you can view it once it has ended ({0})",
-      "->": ""
+      "->": "Tato hra stále probíhá, můžeš si ji prohlédnout až když skončí ({0})"
     },
     "error.code.404": {
       "en": "Connection error ({0})",
-      "->": ""
+      "->": "Chyba připojení ({0})"
     },
     "error.code.500": {
       "en": "Internal server error ({0})",
-      "->": ""
+      "->": "Vnitřní chyba serveru ({0})"
     },
     "error.unknown": {
       "en": "Unknown error: {0} ({1})",
-      "->": ""
+      "->": "Neznámá chyba: {0} ({1})"
     },
     "esport.verifyaccount.description": {
       "en": "You’re about to link your Polytopia account to Challengermode.",
-      "->": ""
+      "->": "Chystáš se propojit svůj Polytopia účet s Challanger Módem."
     },
     "esport.verifyaccount.description.login": {
       "en": "In order to verify your account you need to be logged in",
-      "->": ""
+      "->": "Pro ověření svého účtu musíš být přihlášen"
     },
     "esport.verifyaccount.login": {
       "en": "Login",
-      "->": ""
+      "->": "Přihlásit"
     },
     "esport.verifyaccount.service.cm": {
       "en": "Challengermode",
-      "->": ""
+      "->": "Challenger Mód"	
     },
     "esport.verifyaccount.success": {
       "en": "Successfully linked account",
-      "->": ""
+      "->": "Účet úspěšně propojen"
     },
     "esport.verifyaccount.title": {
       "en": "Verify Account",
-      "->": ""
+      "->": "Ověřit účet"
     },
     "firebaseservice.status.connecting": {
       "en": "Connecting to the Polytopia server...",
@@ -1273,7 +1273,7 @@
     },
     "firendList.winratio": {
       "en": "-Win Ratio-",
-      "->": ""
+      "->": "-Poměr výher-"
     },
     "friendlist.acceptinvite.button": {
       "en": "ACCEPT INVITE",
@@ -1401,7 +1401,7 @@
     },
     "friendlist.new.info.alias": {
       "en": "Search for your friend's alias.",
-      "->": ""
+      "->": "Hledej přítele podle přezdívky."
     },
     "friendlist.new.looking.info": {
       "en": "Looking for player {0}",
@@ -1461,7 +1461,7 @@
     },
     "friendlist.requestsent.notification": {
       "en": "Friend request sent to {0}",
-      "->": ""
+      "->": "Žádost o přátelství odeslána uživateli {0}"
     },
     "friendlist.title": {
       "en": "FRIEND LIST",
@@ -1469,7 +1469,7 @@
     },
     "friendlist.unfriend": {
       "en": "UNFRIEND",
-      "->": ""
+      "->": "ODEBRAT PŘÍTELE"
     },
     "friendlist.uptodate": {
       "en": "Everything is up to date",
@@ -1477,7 +1477,7 @@
     },
     "gameinfo.created": {
       "en": "Created: {0} ago",
-      "->": ""
+      "->": "Vytvořeno: {0} nazpět"
     },
     "gameinfo.gameover": {
       "en": "This game is over, open it to view the final result",
@@ -1485,7 +1485,7 @@
     },
     "gameinfo.gameversion": {
       "en": "Game version: {0}",
-      "->": ""
+      "->": "Verze hry: {0}"
     },
     "gameinfo.id": {
       "en": "ID: {0}",
@@ -1493,7 +1493,7 @@
     },
     "gameinfo.id.copied": {
       "en": "Game ID copied",
-      "->": ""
+      "->": "ID hry zkopírováno"
     },
     "gameinfo.lastmove": {
       "en": "Last move: {0} ago",
@@ -1501,15 +1501,15 @@
     },
     "gameinfo.move": {
       "en": "Move: {0}",
-      "->": ""
+      "->": "Přesunout: {0}"
     },
     "gameinfo.nodata": {
       "en": "There's something wrong with this game, can't show any data for it",
-      "->": ""
+      "->": "Něco se pokazilo s touto hrou, nemůžeme zobrazit žádná data"
     },
     "gameinfo.nodata.title": {
       "en": "No data",
-      "->": ""
+      "->": "Žádná data"
     },
     "gameinfo.opponentsturn": {
       "en": "Waiting for {0} to {1}",
@@ -1573,7 +1573,7 @@
     },
     "gameitem.localplayerdead": {
       "en": "You've been wiped out in this game, still you can spectate.",
-      "->": ""
+      "->": "Tvůj kmen byl vyhlazen. Stále ale můžeš přihlížet."
     },
     "gameitem.pick": {
       "en": "{0}, pick your tribe",
@@ -1589,7 +1589,7 @@
     },
     "gameitem.ready.wait.noowner": {
       "en": "Waiting for the game to start",
-      "->": ""
+      "->": "Čekání na spuštění hry"
     },
     "gameitem.reload": {
       "en": "RELOAD",
@@ -1621,11 +1621,11 @@
     },
     "gameitem.skipturn.action": {
       "en": "SKIP TURN",
-      "->": ""
+      "->": "PŘESKOČIT KOLO"
     },
     "gameitem.skipturn.info": {
       "en": "Do you want to skip {0} this turn? Alternatively you can kick this person from the game, letting a bot take control of the tribe.",
-      "->": ""
+      "->": "Chceš přeskočit {0} toto kolo? Nebo můžeš vyhodit {0} ze hry, a bot převezme kontrolu nad kmenem."
     },
     "gameitem.slow": {
       "en": "Come on...",
@@ -1645,7 +1645,7 @@
     },
     "gameitem.start.inviteplayer": {
       "en": "You need to invite one or more players",
-      "->": ""
+      "->": "Je třeba pozvat jednoho nebo více hráčů"
     },
     "gameitem.start.wait": {
       "en": "Waiting for {0} to start the game",
@@ -1669,11 +1669,11 @@
     },
     "gameitem.timelimit.timeleft": {
       "en": "Time Left",
-      "->": ""
+      "->": "Zbývající čas"
     },
     "gameitem.timelimit.timeleft.info": {
       "en": "This is the time you have left to make your move. When the time runs out you will be automatically skipped.\n\nYou have been skipped {0} times in this game.\n\nAfter {1} skips you will be kicked from the game.",
-      "->": ""
+      "->": "Toto je čas, který máš na tah. Když čas vyprší, budeš automaticky přeskočen.\n\nByl jsi přeskočen {0} krát v této hře.\n\nPo {1} přeskocích budeš vyhozen ze hry."
     },
     "gameitem.timeup": {
       "en": "Time Up!",
@@ -1697,7 +1697,7 @@
     },
     "gamemode.custom": {
       "en": "Creative",
-      "->": ""
+      "->": "Kreativní"
     },
     "gamemode.custom.caps": {
       "en": "CREATIVE",
@@ -1753,7 +1753,7 @@
     },
     "gamemode.glory.win.no.opponents": {
       "en": "The game is over",
-      "->": ""
+      "->": "Hra skončila"
     },
     "gamemode.might": {
       "en": "Might",
@@ -1773,11 +1773,11 @@
     },
     "gamemode.might.win.last.human": {
       "en": "You are the last standing human player, you win!",
-      "->": ""
+      "->": "Jsi poslední živý hráč, vyhráváš!"
     },
     "gamemode.might.win.no.opponents": {
       "en": "No opponents left",
-      "->": ""
+      "->": "Žádní soupeři nezůstali"
     },
     "gamemode.none": {
       "en": "Unknown",
@@ -1785,7 +1785,7 @@
     },
     "gamemode.none.description": {
       "en": "You might get either game mode. Groovy!",
-      "->": ""
+      "->": "Můžeš dostat jakýkoliv herní mód. Báječný!"
     },
     "gamemode.perfection": {
       "en": "Perfection",
@@ -1817,7 +1817,7 @@
     },
     "gamemode.sandbox.caps": {
       "en": "INFINITY",
-      "->": ""
+      "->": "NEKONEČNO"
     },
     "gamemode.sandbox.description": {
       "en": "Play however you like, forever and ever",
@@ -1825,11 +1825,11 @@
     },
     "gamemode.tutorial": {
       "en": "Boot Camp",
-      "->": ""
+      "->": "Tutoriál"
     },
     "gamemode.tutorial.description": {
       "en": "Your tribe gift you with these resources. Spend them wisely!",
-      "->": ""
+      "->": "Tvůj kmen ti dává tyto zdroje. Použij je chytře!"
     },
     "gamemodepicker.title": {
       "en": "GAME MODE",
@@ -1865,15 +1865,15 @@
     },
     "gamesettings.autoskip": {
       "en": "Auto Skip",
-      "->": ""
+      "->": "Automatické přeskočení"
     },
     "gamesettings.autoskip.disabled": {
       "en": "Disabled",
-      "->": ""
+      "->": "Zakázáno"
     },
     "gamesettings.autoskip.enabled": {
       "en": "Enabled",
-      "->": ""
+      "->": "Povoleno"
     },
     "gamesettings.continue": {
       "en": "CONTINUE",
@@ -1937,7 +1937,7 @@
     },
     "gamesettings.info.gamepreferences.header": {
       "en": "Advanced settings",
-      "->": ""
+      "->": "Pokročilá nastavení"
     },
     "gamesettings.info.gamepreferences.info": {
       "en": "The more preferences you apply, the longer you will have to wait to find a matching opponent. So if you are in for a quick game, leave all preferences untouched.",
@@ -1949,7 +1949,7 @@
     },
     "gamesettings.info.matchmaking.gamemode": {
       "en": "{0} game",
-      "->": ""
+      "->": "{0} hra"
     },
     "gamesettings.info.matchmaking.mappreset": {
       "en": "{0} map type",
@@ -1961,7 +1961,7 @@
     },
     "gamesettings.info.matchmaking.opponentcount": {
       "en": "{0} opponents",
-      "->": ""
+      "->": "{0} protivníků"
     },
     "gamesettings.info.matchmaking.timelimit": {
       "en": "{0} turn time limit",
@@ -1973,7 +1973,7 @@
     },
     "gamesettings.info.seed": {
       "en": "Seed",
-      "->": ""
+      "->": "Semínko"
     },
     "gamesettings.info.turnlimit30": {
       "en": ", 30 turn limit",
@@ -1989,7 +1989,7 @@
     },
     "gamesettings.map": {
       "en": "Map Type",
-      "->": ""
+      "->": "Typ mapy"
     },
     "gamesettings.map.archipelago": {
       "en": "Archipelago",
@@ -2037,15 +2037,15 @@
     },
     "gamesettings.notenoughplayers": {
       "en": "You need at least two players to start a game",
-      "->": ""
+      "->": "Pro zahájení hry je potřeba alespoň dva hráči"
     },
     "gamesettings.novalidtribes": {
       "en": "No Valid Tribes",
-      "->": ""
+      "->": "Žádné dostupné kmeny"
     },
     "gamesettings.novalidtribes.info": {
       "en": "There are no valid tribes available. Enable or unlock at least one Tribe to be able to continue.",
-      "->": ""
+      "->": "Nejsou dostupné žádné dalši kmeny. Povol nebo odemkni alespoň jeden kmen, abys mohl pokračovat."
     },
     "gamesettings.online.disabled": {
       "en": "Online is locked",
@@ -2105,7 +2105,7 @@
     },
     "gamesettings.size.tiles.unspecified": {
       "en": "You might get any size of a map. Exciting!",
-      "->": ""
+      "->": "Dostaneš libovolnou velikost mapy. Vzrušující!"
     },
     "gamesettings.size.tiny": {
       "en": "Tiny",
@@ -2121,7 +2121,7 @@
     },
     "gamesettings.timer": {
       "en": "Game Timer",
-      "->": ""
+      "->": "Hermí časovač"
     },
     "gamesettings.timer.description": {
       "en": "How long each player has to make their moves.\n\nIf a plyers timer runs out others can choose to skip that players turn.",
@@ -2137,7 +2137,7 @@
     },
     "gamesettings.unknown": {
       "en": "Unknown",
-      "->": ""
+      "->": "Neznámý"
     },
     "gamesettings.unlockmore": {
       "en": "Unlock more tribes to play with more opponents",
